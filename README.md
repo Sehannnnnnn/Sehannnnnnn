@@ -10,7 +10,7 @@
 <br>
 
 ### 🌱 Interest <br>
-<b>Skills that I can Do, and currently studying.</b>
+<b>Skills that I can do, and currently studying.</b>
 
   - _Web Front_
 
