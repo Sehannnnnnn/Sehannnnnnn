@@ -10,7 +10,6 @@
 <br>
 
 ### 🌱 Interest 
-
 <br>
 <b>Skills that I can Do, and currently studying.</b>
 
