@@ -9,6 +9,7 @@
   * _📔  My Blog : <a href=https://velog.io/@rlatp1409>Click Here!</a>_
 <br>
 
+[![Sehannnnnnn's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/rlatp1409/github-readme-stats)
 ### 🌱 Interest <br>
 <b>Skills that I can do, and currently studying.</b>
 
