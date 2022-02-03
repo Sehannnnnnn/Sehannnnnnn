@@ -1,7 +1,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=240&text=SehanKim&fontAlign=24&fontAlignY=40&color=gradient)
 
 ### 🧑🏻‍💻 Profile
-* <b>SeHan Kim</b>
+* <b>SeHan Kim, 김세한</b>
   * _Seoul National Univ of Science & Technology._
   * _Major : Industrial Science, Computer Science_ 
   * _e-mail: rlatp1409@gmail.com
