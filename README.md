@@ -9,7 +9,7 @@
   * _📄  My Notion : <a href=https://sponge-marquis-325.notion.site/Sehan-dad2797aea834f3b997451e61a839fd2>Click Here!</a>_
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Sehannnnnnn&locale=es)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sehannnnnnn&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ### 🌱 Interest <br>
 <b>Skills that I can do, and currently studying.</b>
