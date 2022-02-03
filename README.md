@@ -6,6 +6,7 @@
   * _Major : Industrial Science, Computer Science_ 
   * _e-mail: rlatp1409@gmail.com
   * _📔  My Blog : <a href=https://velog.io/@rlatp1409>Click Here!</a>_
+  * _📄  My Notion : <a href=https://sponge-marquis-325.notion.site/Sehan-dad2797aea834f3b997451e61a839fd2>Click Here!</a>_
 <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sehannnnnnn)](https://github.com/anuraghazra/github-readme-stats)
