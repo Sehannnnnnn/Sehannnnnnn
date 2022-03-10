@@ -8,7 +8,6 @@
   * _📔  My Blog : <a href=https://velog.io/@rlatp1409>Click Here!</a>_
   * _📄  My Notion : <a href=https://sponge-marquis-325.notion.site/Sehan-dad2797aea834f3b997451e61a839fd2>Click Here!</a>_
 <br>
-
 ### 🌱 Interest <br>
 <b>Skills that I can do, and currently studying.</b>
 
@@ -34,6 +33,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sehannnnnnn&bg_color=30,7242f5,429ef5&title_color=fff&text_color=fff)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sehannnnnnn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=stanley710)](https://solved.ac/stanley710/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sehannnnnnn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
