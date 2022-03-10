@@ -7,7 +7,7 @@
   * _📔  My Blog : <a href=https://velog.io/@rlatp1409>Click Here!</a>_
   * _📄  My Notion : <a href=https://sponge-marquis-325.notion.site/Sehan-dad2797aea834f3b997451e61a839fd2>Click Here!</a>_
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sehannnnnnn&bg_color=30,7242f5,429ef5&title_color=fff&text_color=fff)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sehannnnnnn&bg_color=30,7242f5,a4d2f5&title_color=fff&text_color=fff)
 <br>
 
 ### 🌱 Interest <br>
