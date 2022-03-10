@@ -6,6 +6,8 @@
   * _e-mail: rlatp1409@gmail.com
   * _📔  My Blog : <a href=https://velog.io/@rlatp1409>Click Here!</a>_
   * _📄  My Notion : <a href=https://sponge-marquis-325.notion.site/Sehan-dad2797aea834f3b997451e61a839fd2>Click Here!</a>_
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sehannnnnnn&bg_color=30,7242f5,429ef5&title_color=fff&text_color=fff)
 <br>
 
 ### 🌱 Interest <br>
@@ -30,8 +32,6 @@
 
 
 ###  🏋 Status <br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sehannnnnnn&bg_color=30,7242f5,429ef5&title_color=fff&text_color=fff)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=stanley710)](https://solved.ac/stanley710/)
 
