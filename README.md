@@ -28,8 +28,3 @@
   - _ETC_
   
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-
-
-###  🏋 Status <br>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=stanley710)](https://solved.ac/stanley710/)
